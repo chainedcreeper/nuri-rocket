@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<presentation>
+  <metadata>
+    <title>대한민국 독자 우주수송의 열쇠, 누리호(KSLV-II)</title>
+    <subtitle>나로호 실패 극복부터 5차 발사 성공과 뉴스페이스 시대 개막까지</subtitle>
+    <author>Gemini Notebook</author>
+    <date>2026-10</date>
+    <total_slides>7</total_slides>
+  </metadata>
+  <slides>
+    <slide id="1" layout="title_slide">
+      <title>대한민국 독자 우주수송의 열쇠, 누리호(KSLV-II)</title>
+      <subtitle>나로호 실패 극복부터 5차 발사 성공과 뉴스페이스 시대 개막까지</subtitle>
+      <speaker_notes>안녕하세요. 오늘 발표는 대한민국이 100% 독자 기술로 개발한 한국형발사체 '누리호'의 개발 역사와 주요 발사 성과, 그리고 뉴스페이스 시대의 전망을 다룹니다.</speaker_notes>
+    </slide>
+    <slide id="2" layout="two_column">
+      <title>누리호 개요 및 핵심 제원</title>
+      <key_message>100% 국내 독자 기술로 완성한 3단형 액체 로켓</key_message>
+      <section name="기본 정보 및 위상">
+        <item>정식 명칭: 한국형발사체 KSLV-II (애칭 누리호)</item>
+        <item>개발 주도: 한국항공우주연구원(항우연) / 2010년 3월 착수</item>
+        <item>발사장: 전남 고흥 나로우주센터 (2009년 6월 개장)</item>
+        <item>우주 강국 위상: 1톤 이상 실용위성을 자체 발사체로 쏘아 올린 세계 7번째 국가</item>
+      </section>
+      <section name="로켓 구조 및 성능">
+        <item>크기/무게: 길이 47.2m / 직경 3.5m / 중량 약 200톤</item>
+        <item>1단: 75톤급 액체엔진 4기 클러스터링 (총 추력 약 300톤)</item>
+        <item>2단 &amp; 3단: 2단 75톤급 1기 / 3단 7톤급 1기</item>
+        <item>수송 능력: 1.5톤급 실용위성을 지구 저궤도(600~800km)에 투입</item>
+      </section>
+      <speaker_notes>누리호는 길이 47.2m, 중량 200톤 규모의 3단형 액체 로켓입니다. 1단에 75톤급 엔진 4기를 클러스터링하여 300톤의 추력을 냅니다.</speaker_notes>
+    </slide>
+    <slide id="3" layout="timeline">
+      <title>시련을 넘어선 독자 개발 잔혹사</title>
+      <key_message>실패를 자산으로 삼아 달성한 로켓 독립</key_message>
+      <timeline_events>
+        <event year="1993-2002">KSR-I·II 과학관측로켓 발사 및 한·러 협력 나로호(KSLV-I) 개발 확정</event>
+        <event year="2009-2010">나로우주센터 개장, 나로호 1·2차 발사 실패 후 누리호 독자 개발 착수(2010.03)</event>
+        <event year="2013.01">나로호 3차 발사 성공 (1단은 러시아제 엔진 사용)</event>
+        <event year="2014-2018">7톤 및 75톤급 독자 엔진 개발 완료, 2018년 시험발사체 발사 성공</event>
+        <event year="2021.10">누리호 1차 발사 - 700km 도달했으나 3단 엔진 조기 종료로 위성모사체 궤도 진입 실패</event>
+      </timeline_events>
+      <speaker_notes>나로호의 두 차례 실패와 누리호 1차 발사 시 3단 엔진 조기 종료 등 수많은 시행착오가 있었으나, 원인을 철저히 규명하고 수정하며 기술 자립을 이루었습니다.</speaker_notes>
+    </slide>
+    <slide id="4" layout="comparison_table">
+      <title>1차~4차 발사 주요 성과 및 발전</title>
+      <key_message>검증단계에서 첫 실전 발사 및 야간 발사 성공까지</key_message>
+      <launch_records>
+        <launch num="1차" date="2021.10.21" status="부분 성공">
+          <payload>위성모사체 (1.5톤)</payload>
+          <significance>목표 고도 700km 도달, 3단 헬륨탱크 문제로 궤도 투입 실패</significance>
+        </launch>
+        <launch num="2차" date="2022.06.21" status="성공">
+          <payload>성능검증위성 + 위성모사체</payload>
+          <significance>700km 궤도 투입 성공, 세계 7번째 실용위성 자력 발사국 입성</significance>
+        </launch>
+        <launch num="3차" date="2023.05.25" status="성공">
+          <payload>차세대소형위성 2호 등 8기</payload>
+          <significance>첫 실전 발사, 목표 고도 550km에 탑재위성 정상 투입</significance>
+        </launch>
+        <launch num="4차" date="2025.11.27" status="성공">
+          <payload>차세대중형위성 3호 + 큐브위성 12기 (총 13기, 약 960kg)</payload>
+          <significance>첫 야간 발사, 한화에어로스페이스 주도 첫 제작, 우주 바이오 실험 포함</significance>
+        </launch>
+      </launch_records>
+    </slide>
+    <slide id="5" layout="kpi_cards">
+      <title>최신 5차 발사 집중 분석 (2026.10.07)</title>
+      <key_message>역대 최다 15기 탑재 및 '군집위성 시대' 개막</key_message>
+      <key_metrics>
+        <metric label="발사 성공률">누적 80% (5회 중 4회 성공)</metric>
+        <metric label="탑재 위성 수">역대 최다 15기 (14기 궤도 진입)</metric>
+        <metric label="주탑재 군집위성">네온샛 2~6호 5기 전원 성공</metric>
+      </key_metrics>
+      <details>
+        <point>발사 시각 및 고도: 2026년 10월 7일 12시 25분, 목표 고도 약 570km 도달</point>
+        <point>교신 성과: 남극 세종기지 및 대전·제주·스발바르 지상국 교신 성공</point>
+        <point>군집위성(네온샛): 총 11기 체계 중 2~6호 투입으로 한반도 고빈도 관측 기반 마련</point>
+      </details>
+    </slide>
+    <slide id="6" layout="process_flow">
+      <title>올드스페이스에서 뉴스페이스로</title>
+      <key_message>정부·연구소 주도에서 민간 주도 우주 산업으로 전환</key_message>
+      <transition_steps>
+        <step phase="1. 체계종합기업 선정">2022년 한화에어로스페이스 체계종합기업 선정</step>
+        <step phase="2. 기술 이전 계약">2025년 7월 항우연 기술이전 (2032년까지 통상실시권 확보)</step>
+        <step phase="3. 제작 및 발사 주도">4차 발사 제작 주도 → 5차 관제 참여 확대 → 6차 대부분 업무 수행 예정</step>
+        <step phase="4. 인프라 구축">전남 순천 '스페이스허브 발사체 제작센터' 구축</step>
+      </transition_steps>
+    </slide>
+    <slide id="7" layout="future_roadmap">
+      <title>대한민국 우주 탐사 로드맵</title>
+      <key_message>2027년 6차 발사와 2032년 달 착륙선 도전</key_message>
+      <goals>
+        <goal target="2027년 하반기">누리호 6차 발사 (초소형군집위성 네온샛 7~11호 탑재로 11기 완성)</goal>
+        <goal target="2032년까지">매년 1회 이상 누리호 반복 발사로 신뢰성 극대화</goal>
+        <goal target="차세대발사체(KSLV-III)">달 전이궤도 1.8톤 투입 능력 확보 (누리호의 18배) 및 2032년 달 착륙선 발사</goal>
+        <goal target="우주항공청(KASA)">2026년 예산 1조 1,100억 원 투입으로 위성·탐사 집중 지원</goal>
+      </goals>
+    </slide>
+  </slides>
+</presentation>
