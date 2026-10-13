@@ -15,4 +15,5 @@
 | `docs/nuri_presentation.xml` | NotebookLM이 생성한 슬라이드 구성 |
 | `docs/nuri_presentation.pptx` | 위 구성을 변환한 PPT |
 | `docs/누리호_슬라이드_NotebookLM.pdf` / `.pptx` | NotebookLM 슬라이드 자료 (11장) |
+| `docs/누리호_실패를_딛고_별을_향해.mp4` | NotebookLM 동영상 개요 (설명 동영상, 10분 7초) |
 | `index.html` | genspark로 만든 인터랙티브 웹사이트 → [사이트 보기](https://chainedcreeper.github.io/nuri-rocket/) |
