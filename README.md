@@ -14,4 +14,5 @@
 | `docs/누리호_자료정리.txt` | NotebookLM에 넣은 원본 자료 (기사 출처 포함) |
 | `docs/nuri_presentation.xml` | NotebookLM이 생성한 슬라이드 구성 |
 | `docs/nuri_presentation.pptx` | 위 구성을 변환한 PPT |
-| `index.html` | 정적 웹사이트 |
+| `docs/누리호_슬라이드_NotebookLM.pdf` / `.pptx` | NotebookLM 슬라이드 자료 (11장) |
+| `index.html` | genspark로 만든 인터랙티브 웹사이트 → [사이트 보기](https://chainedcreeper.github.io/nuri-rocket/) |
